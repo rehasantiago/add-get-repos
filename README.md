@@ -1,4 +1,4 @@
-# get-repos
+# add-get-repos
 A simple application in express and postgres<br/>
 
 ### 1. Add repos <br/>
