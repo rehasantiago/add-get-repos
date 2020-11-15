@@ -75,8 +75,8 @@ app.get("/github/:id", async (req, res) => {
         }
 
 
-    } catch (e) {
-
+    } catch (err) {
+        console.log(err);
     }
 })
 
