@@ -1,5 +1,5 @@
 # get-repos
-An simple application in express and postgres<br/>
+A simple application in express and postgres<br/>
 
 ### 1. Add repos <br/>
 This API takes in github api url of repos of a user, eg-`https://api.github.com/users/rehasantiago/repos` and adds the repos and its information in the database.
